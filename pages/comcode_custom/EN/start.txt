@@ -1,0 +1,26 @@
+[semihtml]
+[title="1"]Welcome to {$SITE_NAME*}[/title]
+
+[block="3"]main_greeting[/block]
+
+[surround="fp_col_blocks_wrap"]	[surround="fp_col_block left"]
+		[block]main_iotd[/block]
+	[/surround]
+[/surround]
+
+[block]main_image_fader[/block]
+
+[block]main_forum_news[/block]
+
+[block]main_forum_topics[/block]
+
+[block]main_recent_downloads[/block]
+
+[block]main_top_downloads[/block]
+
+[block]main_quotes[/block]
+
+
+
+[block]main_comcode_page_children[/block]
+[/semihtml]

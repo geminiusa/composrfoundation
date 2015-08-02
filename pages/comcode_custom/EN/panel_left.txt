@@ -1,0 +1,5 @@
+[block="site" title="Pages"]side_stored_menu[/block]
+[block]main_news[/block]
+[block]main_recent_galleries[/block]
+[block]side_personal_stats[/block]
+[block]side_ocf_personal_topics[/block]

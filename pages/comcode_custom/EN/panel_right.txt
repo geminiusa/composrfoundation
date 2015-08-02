@@ -1,0 +1,6 @@
+[block]main_awards[/block]
+[block]main_poll[/block]
+[block]side_users_online[/block]
+[block]side_stats[/block]
+[block]side_calendar[/block]
+[block]side_shoutbox[/block]
